@@ -1,0 +1,21 @@
+.card {
+  display: flex;
+  text-align: center;
+  justify-content: space-between;;
+}
+
+.card-structure {
+  width: 200px;
+  margin: 20px;
+  border: 1px solid #D8E2DC;
+  padding: 45px 15px;
+}
+
+.card-structure i {
+  font-size: 40px;
+  color: #F0CF65;
+}
+
+.card-structure h4 {
+  color: grey;
+}
